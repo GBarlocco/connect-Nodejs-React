@@ -149,7 +149,7 @@ npm start
 [![cliente1.png](https://i.postimg.cc/PJfrdyVz/cliente1.png)](https://postimg.cc/YGVw36Hh)
 
 
-4- Frontend - presionamos el boton "send a http request"
+4- Frontend - press the button "send a http request"
 
 5- Backend - we visualize the request from the server:
 [![server2.png](https://i.postimg.cc/Vv4vtp0V/server2.png)](https://postimg.cc/rR0qXhJ1)
