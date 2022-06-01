@@ -2,7 +2,7 @@
 
 Next, I will explain how http requests are made from react to nodejs
 
-## Backend - Nodejs
+## Backend - Nodejs:
 
 1- You need to install the following:
 
@@ -36,7 +36,7 @@ const PORT = 8080;
 app.listen(PORT, console.log(`Server started on port ${PORT}`));
 ``` 
 
-## Frontend - React
+## Frontend - React:
 1- Now we will continue with the frontend, create a new folder and execute the following command:
 
 ``` 
@@ -123,5 +123,22 @@ Finally the "package.json" file will look like this:
  
 ```
 
+## Project structure:
 
-## Frontend - React
+[![folder1.png](https://i.postimg.cc/L5S2NDMF/folder1.png)](https://postimg.cc/62MkQd3M)
+[![folder2.png](https://i.postimg.cc/HxwCcM8Z/folder2.png)](https://postimg.cc/bDw54sTk)
+[![folder3.png](https://i.postimg.cc/V6B3Lc22/folder3.png)](https://postimg.cc/8Jcytxpb)
+
+## Test:
+
+1- Backend - we run the server:
+```
+nodemon main.js
+```
+[![nodemon-main.png](https://i.postimg.cc/VNFRJLL9/nodemon-main.png)](https://postimg.cc/t1YPfb67)
+
+2- Frontend - we run the react proyect:
+```
+npm start
+```
+[![npmstart.png](https://i.postimg.cc/Hkw0Ns5G/npmstart.png)](https://postimg.cc/0zNJMvcZ)
