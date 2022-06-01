@@ -162,11 +162,11 @@ npm start
 
 ## Scripts
 
-#### backend: `nodemon main.js`
+#### Backend: `nodemon main.js`
 Run the application locally
 [http://localhost:8080/](http://localhost:8080/)
 
-#### frontend: `npm start
+#### Frontend: `npm start`
 Run the application locally
 [http://localhost:3000](http://localhost:3000)
 
