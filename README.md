@@ -142,3 +142,14 @@ nodemon main.js
 npm start
 ```
 [![npmstart.png](https://i.postimg.cc/Hkw0Ns5G/npmstart.png)](https://postimg.cc/0zNJMvcZ)
+
+
+3- Frontend - we access http://localhost:3000/
+
+[cliente1.png](https://postimg.cc/rzJ1KfqV)
+
+
+4- Frontend - presionamos el boton "send a http request"
+
+5- Backend - we visualize the request from the server:
+[![server2.png](https://i.postimg.cc/Vv4vtp0V/server2.png)](https://postimg.cc/rR0qXhJ1)
