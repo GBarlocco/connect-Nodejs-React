@@ -153,3 +153,27 @@ npm start
 
 5- Backend - we visualize the request from the server:
 [![server2.png](https://i.postimg.cc/Vv4vtp0V/server2.png)](https://postimg.cc/rR0qXhJ1)
+
+
+## Author
+> <p>Gastón Barlocco. </p>
+> <p>Email: barlocco@hotmail.es </p>
+
+
+## Scripts
+
+#### backend: `nodemon main.js`
+Run the application locally
+[http://localhost:8080/](http://localhost:8080/)
+
+#### frontend: `npm start
+Run the application locally
+[http://localhost:3000](http://localhost:3000)
+
+
+## Extra
+- [Documentation](https://reactjs.org/) React js
+- [Documentation](https://nodejs.org/es/) Nodejs
+- [Documentation](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto) HTTP
+- [Documentation](https://www.npmjs.com/package/nodemon) nodemon
+- [Documentation](https://expressjs.com/es/) express
