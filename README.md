@@ -146,7 +146,7 @@ npm start
 
 3- Frontend - we access http://localhost:3000/
 
-[cliente1.png](https://postimg.cc/rzJ1KfqV)
+[![cliente1.png](https://i.postimg.cc/PJfrdyVz/cliente1.png)](https://postimg.cc/YGVw36Hh)
 
 
 4- Frontend - presionamos el boton "send a http request"
