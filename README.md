@@ -1,4 +1,4 @@
-# API: Nodejs & React :computer: :rocket:
+# API REST: Nodejs & React :computer: :rocket:
 
 Next, I will explain how http requests are made from react to nodejs
 
