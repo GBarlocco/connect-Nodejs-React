@@ -177,3 +177,9 @@ Run the application locally
 - [Documentation](https://es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto) HTTP
 - [Documentation](https://www.npmjs.com/package/nodemon) nodemon
 - [Documentation](https://expressjs.com/es/) express
+
+---
+<p align='center'>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gastón-barlocco-315756148/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
