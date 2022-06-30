@@ -1,3 +1,5 @@
+const createMessage = require('./CRUD/create');
+
 const express = require(`express`);
 const app = express();
 
@@ -8,6 +10,7 @@ app.get(`/`, (req, res) => {
 app.post(`/post`, (req, res) => {
     console.log(`htpp post --> React`);
     res.redirect(`/feedback`);
+    createMessage();
 });
 
 const PORT = 8080;
